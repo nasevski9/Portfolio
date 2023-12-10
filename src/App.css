@@ -1,0 +1,90 @@
+* {
+    background-color: white;
+    color: black;
+    box-sizing: border-box;
+    text-decoration: none !important;
+}
+
+.icons{
+    font-size: 3rem;
+    transition: all 400ms ease;
+}
+
+footer{
+    width: 100%;
+    min-height: 60px;
+    max-height: 100px;
+    bottom: 0;
+    left: 0;
+    position: relative;
+}
+
+.skill-icon {
+    width: 100px;
+    height: 100px;
+    margin-left: 40px;
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+
+.skill-icon img {
+    width: 100%;
+    height: 100%;
+    display: block;
+    object-fit: contain;
+}
+.nav-item:hover {
+    color: green !important;
+}
+a{
+    color: black !important;
+}
+a:hover {
+    color: green !important;
+}
+.contact-form {
+    display: flex;
+    justify-content: center;
+    align-items: center !important;
+    width: 100% !important;
+    padding-left: 25% !important;
+    padding-right: 25% !important;
+}
+.icons:hover {
+    color: green !important;
+    fill: green !important;
+}
+#contact-btn {
+    margin-bottom: 60px;
+    color: white I !important;
+}
+.active{
+    background-color: green !important;
+    color: white !important;
+    transition: all 500ms ease;
+}
+
+.active:hover {
+    color: white !important;
+}
+.card-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    grid-column-gap: 100px;
+    grid-row-gap: 50px;
+    padding: 50px 100px !important;
+}
+
+#logoImg {
+    height: 500px;
+    width: 500px;
+    border: 5px solid;
+    border-radius: 50%;
+}
+.rounded-pill{
+    color: white !important;
+}
+.git{
+    color: white !important;
+}
