@@ -18,7 +18,7 @@ export default function Resume() {
             <div className="my-5 d-flex justify-content-between">
                 <h1 className="fs-1">Skills</h1>
                 <h4>Download my<span> </span>
-                    <a href="https://drive.google.com/file/d/17CCbAnAPBi9E-1r6LZu5dLcEoI4Svk2r/view?usp=sharing" className="text-success fst-italic">
+                    <a href="https://drive.google.com/file/d/1xXpY-K8PKX_COBo_vh4xjhWEp1T2NJu-/view?usp=sharing" className="text-success fst-italic">
                         Resume.pdf
                     </a>
                 </h4>
